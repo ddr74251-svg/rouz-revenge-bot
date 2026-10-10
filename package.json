@@ -1,0 +1,12 @@
+{
+"name": "rouz-revenge-bot",
+"version": "1.0.0",
+"description": "ROUZ REVENGE Family Telegram Bot",
+"main": "bot.js",
+"scripts": {
+"start": "node bot.js"
+},
+"dependencies": {
+"telegraf": "^4.16.3"
+}
+}
